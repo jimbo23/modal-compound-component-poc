@@ -1,4 +1,4 @@
-import { Light as SyntaxHighlighter } from "react-syntax-highlighter";
+import SyntaxHighlighter from "react-syntax-highlighter";
 import styles from "react-syntax-highlighter/dist/esm/styles/hljs/vs2015";
 import { CONFIG } from "./config";
 
